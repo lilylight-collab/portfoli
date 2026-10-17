@@ -57,9 +57,8 @@ nav .navbar-brand{
 a.nav-link{
     color:aliceblue;
    border-radius: 10px; 
+   border: 1px solid #729ff2;
 }
-
-
 
 .navbar-nav a:hover{
     background-color: #729ff2;
